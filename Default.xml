@@ -3,7 +3,14 @@
     <Product ID="">
       <Language ID="MatchOS" />
       <Language ID="ru-ru" />
-      <ExcludeApp ID="Word" />
+      <ExcludeApp ID="Access"/>
+      <ExcludeApp ID="Excel"/>
+      <ExcludeApp ID="Lync"/>
+      <ExcludeApp ID="OneDrive"/>
+      <ExcludeApp ID="OneNote"/>
+      <ExcludeApp ID="Outlook"/>
+      <ExcludeApp ID="PowerPoint"/>
+      <ExcludeApp ID="Publisher"/>
     </Product>
     <Product ID="ProofingTools">
       <Language ID="MatchOS" />
