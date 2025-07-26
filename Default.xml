@@ -14,7 +14,7 @@
     </Product>
     <Product ID="ProofingTools">
       <Language ID="MatchOS" />
-      <Language ID="en-us" />
+      <Language ID="ru-ru" />
     </Product>
   </Add>
   <Property Name="PinIconsToTaskbar" Value="FALSE" />
